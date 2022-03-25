@@ -1,4 +1,4 @@
-Hi guys My name is Yoon Sung from SouthK.
+Hi guys I'm Yoon Sung who is from SouthK and student(MID).
 I'm interested in coding and programing and also learning about it.
 
 <!---
